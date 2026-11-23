@@ -10,8 +10,6 @@ Power BI dashboard on five years of ITC Ltd sales, profit, margins and borrowing
 - **FY25 profit:** net profit of ₹35,052 Cr includes ₹15,155 Cr of one-time exceptional income, so underlying profit was about ₹19,900 Cr (approximate)
 - **FY26 profit fall (-40.04%):** caused by the high FY25 base, not weaker operations, as operating profit rose from ₹25,832 Cr to ₹27,306 Cr
 - **Debt:** borrowings rose to ₹2,399 Cr in FY26, mainly short-term, but are only about 3% of sales
-
-## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](ITCdashboard.png)
 
 *Learning project using public company data. Not investment advice.*
